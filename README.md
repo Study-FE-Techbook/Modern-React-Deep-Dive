@@ -66,9 +66,9 @@
 <table>
   <tr height="120px">
     <td align="center">
-      <a href="https://github.com/minjidev"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88658551?v=4"/></a>
+      <a href="https://github.com/Kbomi16"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88658551?v=4"/></a>
       <br />
-      <a href="https://github.com/minjidev">김보미</a>
+      <a href="https://github.com/Kbomi16">김보미</a>
     </td>
   </tr>
 </table>
