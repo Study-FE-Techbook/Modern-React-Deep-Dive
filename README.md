@@ -70,36 +70,36 @@
 ## 🧑‍💻 스터디원
 
 <table>
-  <tr style="height: 120px; text-align: center;">
-    <td>
+  <tr>
+    <td style="height: 120px;text-align: center;">
       <a href="https://github.com/PixeIDark">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/162538553?v=4"/>
       </a>
       <br />
       <a href="https://github.com/PixeIDark">김민재</a>
     </td>
-    <td>
+    <td style="height: 120px;text-align: center;">
       <a href="https://github.com/Kbomi16">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88658551?v=4"/>
       </a>
       <br />
       <a href="https://github.com/Kbomi16">김보미</a>
     </td>
-    <td>
+    <td style="height: 120px;text-align: center;">
       <a href="https://github.com/ssseeo0">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/135966211?v=4"/>
       </a>
       <br />
       <a href="https://github.com/ssseeo0">김서영</a>
     </td>
-    <td>
+    <td style="height: 120px;text-align: center;">
       <a href="https://github.com/WooGi1020">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/113000290?v=4"/>
       </a>
       <br />
       <a href="https://github.com/WooGi1020">정우기</a>
     </td>
-    <td>
+    <td style="height: 120px;text-align: center;">
       <a href="https://github.com/alexgoni">
         <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/102004889?v=4"/>
       </a>
