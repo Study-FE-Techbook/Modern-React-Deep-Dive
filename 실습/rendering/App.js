@@ -14,7 +14,7 @@ export default function App() {
       });
 
       setLoading(false);
-    }, 3_000);
+    }, 3000);
   }, []);
 
   if (loading) return <div>Loading...</div>;
