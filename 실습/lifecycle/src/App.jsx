@@ -1,6 +1,6 @@
-import LifeCycleExample from '../components/LifeCycleExample'
-import LifeCycleHooksExample from '../components/LifeCycleHooksExample'
-import './App.css'
+import LifeCycleExample from "../components/LifeCycleExample";
+import LifeCycleHooksExample from "../components/LifeCycleHooksExample";
+import "./App.css";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <LifeCycleExample />
       <LifeCycleHooksExample />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
