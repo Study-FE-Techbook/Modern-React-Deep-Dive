@@ -1,9 +1,9 @@
-import ParentComponent from "./components/useImperativeHandle/ParentComponent";
+import Counter from "./components/Counter";
 
 function App() {
   return (
     <>
-      <ParentComponent />
+      <Counter />
     </>
   );
 }
