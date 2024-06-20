@@ -1,0 +1,19 @@
+<!-- 4. SSR 수행할 때 기본이 되는 HTML 템플릿 -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SSR Example</title>
+  </head>
+  <body>
+    <!-- 서버에서 리액트 컴포넌트를 기반으로 만든 HTML 코드를 삽입하는 자리 -->
+    __placeholder__
+    <!-- unpkg: npm라이브러리 (react-dom 추가되어있음) -->
+    <script src="https://unpkg.com/react@17.0.2/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.development.js"></script>
+    <!-- 클라이언트 리액트 애플리케이션 코드를 번들링했을 때 제공되는 리액트 자바스크립트 코드 -->
+    <!-- __placeholder__에 먼저 리액트에서 만든 HTML이 삽입되면 이후에 이 코드가 실행되면서 필요한 JS 이벤트 핸들러가 붙는다. -->
+    <script src="/browser.js"></script>
+  </body>
+</html>
