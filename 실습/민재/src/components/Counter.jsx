@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-
+import AnonymousDefaultComponent from "./devToolTest/NoNamed";
 function Counter() {
   const [count, setCount] = useState(0);
 
@@ -18,6 +18,7 @@ function Counter() {
     <div>
       <p style={{ color: "blue" }}>Count: {count}</p>
       <button onClick={() => setCount(count + 1)}>+</button>
+      <AnonymousDefaultComponent />
     </div>
   );
 }
