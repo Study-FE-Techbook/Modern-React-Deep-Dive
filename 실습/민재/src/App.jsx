@@ -1,10 +1,24 @@
 import Counter from "./components/Counter";
-import AnonymousDefaultComponent from "./components/devToolTest/NoNamed";
+
+var counter = 0;
+var instances = [];
+
+function Y() {
+  this.j = 5;
+}
+
+function X() {
+  this.i = counter++;
+  this.y = new Y();
+}
 function App() {
+  function handleClick() {
+    instances.push(new X());
+  }
   return (
     <>
       <Counter />
-      <AnonymousDefaultComponent />
+      <button onClick={handleClick}>a+</button>
     </>
   );
 }
