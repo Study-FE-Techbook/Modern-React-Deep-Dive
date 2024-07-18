@@ -136,3 +136,4 @@ function fetchWithSuspense(url) {
 - https://dev.to/tusharshahi/using-suspense-with-react-without-a-3rd-party-library-3i2b
 - https://maxkim-j.github.io/posts/suspense-argibraic-effect/
 - https://yozm.wishket.com/magazine/detail/2373/
+- https://www.daleseo.com/react-suspense/
